@@ -8,4 +8,4 @@ This repo will contains all of the applications developed by me for educational 
 
                 if you try to go beyond 0-10 range a warning box will appear.
 
-3.To Do -> simple to do planner
+2.To Do -> simple to do planner
